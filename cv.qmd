@@ -13,52 +13,50 @@ format-links: [pdf, docx]
 ---
 
 ::: {.print-only .contact-block}
-zhuan.leong@monash.edu | Subang Jaya, Malaysia | [https://zkleong.github.io/](https://zkleong.github.io/)
+zhuan.leong@monash.edu \| Subang Jaya, Malaysia \| [https://zkleong.github.io/](https://zkleong.github.io/)
 :::
 
 ## Education
 
 **Doctor of Philosophy -- Econometrics and Business Statistics** <br> ***Monash University*** [*August 2023 --- Present*]{.cvdate}
 
--   Thesis: Data-driven decision making in multidrug-resistant organisms (MDRO) in ICU
--   Global Excellence and Mobility Scholarship
--   Expected submission date: February 2027
+- Thesis: Data-driven decision making in multidrug-resistant organisms (MDRO) in ICU
+- Global Excellence and Mobility Scholarship
+- Expected submission date: February 2027
 
 Supervisors: Ewilly Liew, [Michael Lydeamore](https://www.michaellydeamore.com/), [Di Cook](https://www.dicook.org/), Lee How Chinh
 
 **Bachelor of Business and Commerce (Honours)** <br> ***Monash University*** [*July 2020 --- June 2021*]{.cvdate}
 
--   Thesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.
--   Awarded Graduate Research Pathway Scholarship (100%)
--   Received the Best Student Award
+- Thesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.
+- Awarded Graduate Research Pathway Scholarship (100%)
+- Received the Best Student Award
 
 Supervisors: Ewilly Liew, Patricia Lau
 
-**Bachelor of Business and Commerce | Econometrics and Business Statistics** <br> ***Monash University*** [*February 2017 --- December 2019*]{.cvdate}
+**Bachelor of Business and Commerce \| Econometrics and Business Statistics** <br> ***Monash University*** [*February 2017 --- December 2019*]{.cvdate}
 
 - Awarded the Malaysia Public Service Department Scholarship
 
-
 ## Work experience
 
-**Research Analyst** <br>***Institute for Global Strategy and Competitiveness | Sunway University*** [August 2021 --- September 2023]{.cvdate}
+**Research Analyst** <br>***Institute for Global Strategy and Competitiveness \| Sunway University*** [August 2021 --- September 2023]{.cvdate}
 
 - Conducted quantitative data analysis to support national policy development, including forecasting and trend analysis on key economic and strategic indicators.
 - Led knowledge-sharing sessions and conducted workshops for internal teams and external stakeholders, focusing on practical applications of data analytics tools and methods.
 
-**Research Assistant** <br> ***School of Business | Monash University Malaysia*** [April 2020 - December 2021]{.cvdate}
+**Research Assistant** <br> ***School of Business \| Monash University Malaysia*** [April 2020 - December 2021]{.cvdate}
 
 - Supported the design and deployment of online survey instruments using Qualtrics, including testing, distribution, and management of respondent incentives.
 - Assisted in literature reviews, data collection, and database preparation for ongoing research projects.
 - Performed preliminary quantitative analysis to support academic publications and research outputs.
 
-**Analytics and Strategy Intern** <br> ***E-Commerce Division | Maxis Berhad*** [December 2018 - February 2019]{.cvdate}
+**Analytics and Strategy Intern** <br> ***E-Commerce Division \| Maxis Berhad*** [December 2018 - February 2019]{.cvdate}
 
 - Developed interactive dashboards using Google Data Studio to visualize key performance metrics for eCommerce clients.
 - Supported monthly reporting and contributed to client presentations by providing data-driven insights and performance trends.
 - Analyzed the impact of time-related factors (e.g., time of day, day of week) on customer shopping behavior to inform strategic recommendations.
 - Conducted competitor analysis to benchmark performance and identify growth opportunities for clients.
-
 
 ## Teaching
 
@@ -80,7 +78,6 @@ Data Analysis with R [2021 - 2022]{.cvdate}
 
 Introduction to Time Series Forecasting [2021 - 2022]{.cvdate}
 
-
 ## Publications
 
 **Report**
@@ -95,18 +92,40 @@ Contributed as a member of a larger team.
 
 **Book Chapter**
 
-Liew, E.J.Y., Peh, W.L., **Leong, Z.K.** (2022). Perceived Trust and Confidence for Cryptocurrency Adoption: What Lies Ahead?. In P. C. Lai (Ed), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250 – 279). IGI Global. 
+Liew, E.J.Y., Peh, W.L., **Leong, Z.K.** (2022).
+Perceived Trust and Confidence for Cryptocurrency Adoption: What Lies Ahead?.
+In P. C.
+Lai (Ed), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp.
+250 -- 279).
+IGI Global.
 
 ## Presentations
 
-**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Transforming MDR-AB surveillance into ICU safety. Presented at Alfred Health. September 2025.
+**Leong, Z.K.**, Liew, E.J.Y, Lee, H.C., Cook, D., Lydeamore, M.
+(2026).
+Modeling environmentally persistent pathogens: Application to MDR-AB in ICU.
+Presented at "Mathematical modelling of infectious diseases" workshop, Monash University, Malaysia.
+September 2026.
 
-**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Data-driven pandemic resilience against drug-resistant bacteria in ICU: Transforming monitoring data into ICU safety. Presented at Doctoral Colloquium 2025, School of Business, Monash University, Australia. September 2025.
+**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M.
+(2025).
+Patient demographic changes during COVID-19 affect risk factors for healthcare-associated infection in ICU.
+Presented at Australia Statistical Conference 2025, Curtin University, Perth, Australia.
+December 2025.
 
-**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M. (2025). Patient demographic changes during COVID-19 affect risk factors for healthcare-associated infection in ICU. Presented at Australia Statistical Conference 2025, Curtin University, Perth, Australia. December 2025.
+**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M.
+(2025).
+Transforming MDR-AB surveillance into ICU safety.
+Presented at Alfred Health.
+September 2025.
+
+**Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M.
+(2025).
+Data-driven pandemic resilience against drug-resistant bacteria in ICU: Transforming monitoring data into ICU safety.
+Presented at Doctoral Colloquium 2025, School of Business, Monash University, Australia.
+September 2025.
 
 [Using ChatGPT for Academic Work](https://drive.google.com/file/d/1sI_SaKPPdakqJahGsiPu44qSTGrcEASD/view?usp=drive_link) <br> *BEX6200 Research Philosophy, Monash University* [2024]{.cvdate}
-
 
 ## Trainings Attended
 
@@ -114,7 +133,7 @@ MIDSEA Summer School 2026 (Inference track) <br> *UNIMAS and MIDSEA* [2026]{.cvd
 
 Applied Methods of Cost-Effectiveness Analysis in Healthcare <br> *Oxford Population Health* [2022]{.cvdate}
 
-Machine Learning by Dr Andrew Ng <br> *Coursera* [2020]{.cvdate} 
+Machine Learning by Dr Andrew Ng <br> *Coursera* [2020]{.cvdate}
 
 Data Scientist with R (Multiple Courses) <br> *DataCamp* [2017-2019]{.cvdate}
 
@@ -122,14 +141,14 @@ Data Scientist with R (Multiple Courses) <br> *DataCamp* [2017-2019]{.cvdate}
 
 **First Place** <br> *Pathogen Panic AMR Case Competition by Monash Centre to Impact AMR* [2026]{.cvdate}
 
-- Designed an evidence-based outbreak response strategy for a novel pathogen 
-- Presented via video pitch. 
+- Designed an evidence-based outbreak response strategy for a novel pathogen
+- Presented via video pitch.
 - Awarded against international field.
 
 **National Champion** <br> *ASEAN Data Science Explorer* [2019]{.cvdate}
 
 - Built and presented a data-driven storyboard on SAP Analytics Cloud to promote food sustainability in the ASEAN region.
--	Represented Malaysia to present the solution in regional finals in Bangkok.
+- Represented Malaysia to present the solution in regional finals in Bangkok.
 - [Slides](https://aseandse.org/uploads/asset/x8yHBFqWcI.pdf)
 - [Story](https://aseandse.org/stories/zhuan-kee-leong/)
 
@@ -137,10 +156,4 @@ Data Scientist with R (Multiple Courses) <br> *DataCamp* [2017-2019]{.cvdate}
 ## References
 
 Available upon request
-
 :::
-
-
-
-
-
