@@ -27,47 +27,43 @@ zhuan.leong@monash.edu \| Subang Jaya, Malaysia <br> [zkleong.com](https://zkleo
 
 ## Education
 
-**Doctor of Philosophy -- Econometrics and Business Statistics** <br> ***Monash University*** [*August 2023 -- Present*]{.cvdate}
+**Doctor of Philosophy -- Econometrics and Business Statistics** <br> *Monash University* [August 2023 -- Present]{.cvdate}
 
 - Thesis: Data-driven decision making in multidrug-resistant organisms (MDRO) in ICU
+- Expected submission: February 2027
 - Global Excellence and Mobility Scholarship
-- Expected submission date: February 2027
 
-Supervisors: Ewilly Liew, [Michael Lydeamore](https://www.michaellydeamore.com/), [Di Cook](https://www.dicook.org/), Lee How Chinh
+Supervisors: Ewilly Liew, Michael Lydeamore, Di Cook, Lee How Chinh
 
-**Bachelor of Business and Commerce (Honours)** <br> ***Monash University*** [*July 2020 -- June 2021*]{.cvdate}
+**Bachelor of Business and Commerce (Honours)** <br> *Monash University* [July 2020 -- June 2021]{.cvdate}
 
-- Thesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes.
-- Awarded Graduate Research Pathway Scholarship (100%)
-- Received the Best Student Award
+- Thesis: Analyzing the buffer effect of creativity on exhaustion towards work outcomes
+- Graduate Research Pathway Scholarship (100%)
+- Best Student Award
 
 Supervisors: Ewilly Liew, Patricia Lau
 
-**Bachelor of Business and Commerce \| Econometrics and Business Statistics** <br> ***Monash University*** [*February 2017 -- December 2019*]{.cvdate}
+**Bachelor of Business and Commerce -- Econometrics and Business Statistics** <br> *Monash University* [February 2017 -- December 2019]{.cvdate}
 
-- Awarded the Malaysia Public Service Department Scholarship
+- Malaysia Public Service Department Scholarship
 
-## Publications & Presentations
+## Publications
 
-**Book Chapter**
+**Book chapter**
 
-**Perceived Trust and Confidence for Cryptocurrency Adoption: What Lies Ahead?** <br> Liew, E.J.Y., Peh, W.L., **Leong, Z.K.** <br> *In P. C. Lai (Ed.), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250--279). IGI Global.* [2022]{.cvdate}
+**Perceived Trust and Confidence for Cryptocurrency Adoption: What Lies Ahead?** <br> Liew, E.J.Y., Peh, W.L., **Leong, Z.K.** <br> *In P. C. Lai (Ed.), Handbook of Research on Social Impacts of E-Payment and Blockchain Technology (pp. 250--279). IGI Global* [2022]{.cvdate}
 
-**Report**
+**Reports**
 
-Contributed as a member of a larger team.
+**[Water as Economic Sector](https://wst2040.my/wp-content/uploads/2022/06/WST2040-VOLUME-IX_WES.pdf)** <br> *Water Sector Transformation 2040 · Academy of Sciences Malaysia · Contributing team member* [2022]{.cvdate}
 
-[Water as Economic Sector](https://wst2040.my/wp-content/uploads/2022/06/WST2040-VOLUME-IX_WES.pdf) \| Water Sector Transformation 2040 <br> *Academy of Sciences Malaysia* [2022]{.cvdate}
+**[The Nexus of Biodiversity Conservation and Sustainable Socioeconomic Development in Southeast Asia](https://www.akademisains.gov.my/asm-publication/nexus-of-biodiversity/)** <br> *Academy of Sciences Malaysia · Contributing team member* [2022]{.cvdate}
 
-[The Nexus of Biodiversity Conservation and Sustainable Socioeconomic Development in Southeast Asia](https://www.akademisains.gov.my/asm-publication/nexus-of-biodiversity/) <br> *Academy of Sciences Malaysia* [2022]{.cvdate}
+**[Position Paper on Blue Economy: Unlocking the Value of the Oceans](https://www.akademisains.gov.my/position-paper-on-blue-economy-unlocking-the-value-of-the-oceans/)** <br> *Academy of Sciences Malaysia · Contributing team member* [2022]{.cvdate}
 
-[Position Paper on Blue Economy: Unlocking the Value of the Oceans](https://www.akademisains.gov.my/position-paper-on-blue-economy-unlocking-the-value-of-the-oceans/) <br> *Academy of Sciences Malaysia* [2022]{.cvdate}
-
-**Presentations**
+## Presentations
 
 **Modelling environmentally persistent hospital pathogens from routine surveillance: an application to MDR *Acinetobacter baumannii* in an ICU** <br> **Leong, Z.K.**, Liew, E.J.Y., Lee, H.C., Cook, D., Lydeamore, M. <br> *19th Doctoral Colloquium, School of Business, Monash University Malaysia* [October 2026]{.cvdate}
-
-- Best Paper Award (Late Stage); see Awards.
 
 **Modelling environmentally persistent pathogens: Application to MDR-AB in ICU** <br> **Leong, Z.K.**, Liew, E.J.Y., Lee, H.C., Cook, D., Lydeamore, M. <br> *SPARKLE Mathematical Modelling of Infectious Diseases Workshop, Monash University Malaysia* [September 2026]{.cvdate}
 
@@ -77,31 +73,31 @@ Contributed as a member of a larger team.
 
 **Data-driven pandemic resilience against drug-resistant bacteria in ICU: Transforming monitoring data into ICU safety** <br> **Leong, Z.K.**, Liew, E.J.Y., Poh, Y.H., Cook, D., Lydeamore, M. <br> *Doctoral Colloquium 2025, School of Business, Monash University, Australia* [September 2025]{.cvdate}
 
-**[Using ChatGPT for Academic Work](https://drive.google.com/file/d/1sI_SaKPPdakqJahGsiPu44qSTGrcEASD/view?usp=drive_link)** <br> *BEX6200 Research Philosophy, Monash University* [2024]{.cvdate}
+**[Using ChatGPT for Academic Work](https://drive.google.com/file/d/1sI_SaKPPdakqJahGsiPu44qSTGrcEASD/view?usp=drive_link)** <br> **Leong, Z.K.** <br> *Class presentation, BEX6200 Research Philosophy, Monash University* [April 2024]{.cvdate}
 
 ## Awards
 
-**First Place** <br> *PhD Interdisciplinary Team Challenge (PITCH) 2026, Monash University* [November 2026]{.cvdate}
+**PhD Interdisciplinary Team Challenge (PITCH) 2026** <br> *First Place · Monash University* [November 2026]{.cvdate}
 
-- Team competition held at Monash College City Campus, Melbourne, 9--13 November 2026.
-- [Certificate of participation](images/certs/pitch_2026_participation.pdf)
+- Held at Monash College City Campus, Melbourne, 9--13 November 2026
+- [Certificate](images/certs/pitch_2026_participation.pdf)
 
-**Best Paper Award -- Late Stage** <br> *19th Doctoral Colloquium, School of Business, Monash University Malaysia* [October 2026]{.cvdate}
+**19th Doctoral Colloquium** <br> *Best Paper Award (Late Stage) · School of Business, Monash University Malaysia* [October 2026]{.cvdate}
 
-- Paper: Modelling environmentally persistent hospital pathogens from routine surveillance: an application to MDR *Acinetobacter baumannii* in an ICU.
+- For the paper presented at the colloquium (see Presentations)
 - [Certificate](images/certs/colloquium_2026_best-paper.pdf)
 
-**First Place** <br> *Pathogen Panic AMR Case Competition by Monash Centre to Impact AMR* [2026]{.cvdate}
+**Pathogen Panic AMR Case Competition** <br> *First Place · Monash Centre to Impact AMR* [July 2026]{.cvdate}
 
 - Designed an evidence-based outbreak response strategy for a novel pathogen
-- Presented via video pitch.
-- Awarded against international field.
+- Presented the strategy as a video pitch
+- International field of competitors
 - [Certificate](images/certs/pathogen-panic_2026_champion.png)
 
-**National Champion** <br> *ASEAN Data Science Explorer* [2019]{.cvdate}
+**ASEAN Data Science Explorer** <br> *National Champion (Malaysia)* [October 2019]{.cvdate}
 
-- Built and presented a data-driven storyboard on SAP Analytics Cloud to promote food sustainability in the ASEAN region.
-- Represented Malaysia to present the solution in regional finals in Bangkok.
+- Built and presented a data-driven storyboard on SAP Analytics Cloud to promote food sustainability in the ASEAN region
+- Represented Malaysia at the regional finals in Bangkok
 - [Slides](https://aseandse.org/uploads/asset/x8yHBFqWcI.pdf)
 - [Story](https://aseandse.org/stories/zhuan-kee-leong/)
 
@@ -119,36 +115,35 @@ ETM5950 Data Analytics for Business \| *Malaysia* [S1Y2024]{.cvdate}
 
 **Workshops**
 
-SPARKLE Mathematical Modelling of Infectious Diseases Workshop -- Trainer and Organising Committee <br> *Monash University Malaysia, with SPARKLE and the Peter Doherty Institute for Infection and Immunity* [September 2026]{.cvdate}
+**SPARKLE Mathematical Modelling of Infectious Diseases Workshop** <br> *Trainer and Organising Committee · Monash University Malaysia, SPARKLE and the Doherty Institute* [September 2026]{.cvdate}
 
-- Delivered a training session and served on the organising committee.
 - [Certificate](images/certs/sparkle_2026_trainer-organiser.pdf)
 
-Data Analysis with R [2021 -- 2022]{.cvdate}
+**Data Analysis with R** <br> *Institute for Global Strategy and Competitiveness \| Sunway University* [2021 -- 2022]{.cvdate}
 
-Introduction to Time Series Forecasting [2021 -- 2022]{.cvdate}
+**Introduction to Time Series Forecasting** <br> *Institute for Global Strategy and Competitiveness \| Sunway University* [2021 -- 2022]{.cvdate}
 
 ## Work experience
 
-**Research Analyst** <br>***Institute for Global Strategy and Competitiveness \| Sunway University*** [August 2021 -- September 2023]{.cvdate}
+**Research Analyst** <br> *Institute for Global Strategy and Competitiveness \| Sunway University* [August 2021 -- September 2023]{.cvdate}
 
-- Conducted quantitative data analysis to support national policy development, including forecasting and trend analysis on key economic and strategic indicators.
-- Led knowledge-sharing sessions and conducted workshops for internal teams and external stakeholders, focusing on practical applications of data analytics tools and methods.
+- Conducted quantitative data analysis to support national policy development, including forecasting and trend analysis on key economic and strategic indicators
+- Led knowledge-sharing sessions and conducted workshops for internal teams and external stakeholders, focusing on practical applications of data analytics tools and methods
 
-**Research Assistant** <br> ***School of Business \| Monash University Malaysia*** [April 2020 -- December 2021]{.cvdate}
+**Research Assistant** <br> *School of Business \| Monash University Malaysia* [April 2020 -- December 2021]{.cvdate}
 
-- Supported survey design and deployment (Qualtrics), literature reviews, data collection and preliminary quantitative analysis for academic research projects.
+- Supported survey design and deployment (Qualtrics), literature reviews, data collection and preliminary quantitative analysis for academic research projects
 
-**Analytics and Strategy Intern** <br> ***E-Commerce Division \| Maxis Berhad*** [December 2018 -- February 2019]{.cvdate}
+**Analytics and Strategy Intern** <br> *E-Commerce Division \| Maxis Berhad* [December 2018 -- February 2019]{.cvdate}
 
-- Built Google Data Studio dashboards and analyzed customer shopping behavior and competitor performance to inform eCommerce client strategy.
+- Built Google Data Studio dashboards and analyzed customer shopping behavior and competitor performance to inform eCommerce client strategy
 
-## Trainings Attended
+## Professional development
 
-MIDSEA Summer School 2026 (Inference track) <br> *UNIMAS and MIDSEA* [2026]{.cvdate}
+MIDSEA Summer School 2026 (Inference track) \| *UNIMAS and MIDSEA* [2026]{.cvdate}
 
-Applied Methods of Cost-Effectiveness Analysis in Healthcare <br> *Oxford Population Health* [2022]{.cvdate}
+Applied Methods of Cost-Effectiveness Analysis in Healthcare \| *Oxford Population Health* [2022]{.cvdate}
 
-Machine Learning by Dr Andrew Ng <br> *Coursera* [2020]{.cvdate}
+Machine Learning (Andrew Ng) \| *Coursera* [2020]{.cvdate}
 
-Data Scientist with R (Multiple Courses) <br> *DataCamp* [2017 -- 2019]{.cvdate}
+Data Scientist with R career track \| *DataCamp* [2017 -- 2019]{.cvdate}
