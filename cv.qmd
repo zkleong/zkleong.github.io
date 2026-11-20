@@ -78,6 +78,11 @@ Data Analysis with R [2021 - 2022]{.cvdate}
 
 Introduction to Time Series Forecasting [2021 - 2022]{.cvdate}
 
+SPARKLE Mathematical Modelling of Infectious Diseases Workshop -- Trainer and Organising Committee <br> *Monash University Malaysia, with SPARKLE and the Peter Doherty Institute for Infection and Immunity* [September 2026]{.cvdate}
+
+- Delivered a training session and served on the organising committee.
+- [Certificate](images/certs/sparkle_2026_trainer-organiser.pdf)
+
 ## Publications
 
 **Report**
@@ -103,8 +108,15 @@ IGI Global.
 
 **Leong, Z.K.**, Liew, E.J.Y, Lee, H.C., Cook, D., Lydeamore, M.
 (2026).
+Modelling environmentally persistent hospital pathogens from routine surveillance: an application to MDR *Acinetobacter baumannii* in an ICU.
+Presented at the 19th Doctoral Colloquium, School of Business, Monash University Malaysia.
+October 2026.
+**Best Paper Award (Late Stage).**
+
+**Leong, Z.K.**, Liew, E.J.Y, Lee, H.C., Cook, D., Lydeamore, M.
+(2026).
 Modeling environmentally persistent pathogens: Application to MDR-AB in ICU.
-Presented at "Mathematical modelling of infectious diseases" workshop, Monash University, Malaysia.
+Presented at the SPARKLE Mathematical Modelling of Infectious Diseases Workshop, Monash University Malaysia.
 September 2026.
 
 **Leong, Z.K.**, Liew, E.J.Y, Poh, Y.H., Cook, D., Lydeamore, M.
@@ -139,11 +151,22 @@ Data Scientist with R (Multiple Courses) <br> *DataCamp* [2017-2019]{.cvdate}
 
 ## Other Awards
 
+**First Place** <br> *PhD Interdisciplinary Team Challenge (PITCH) 2026, Monash University* [November 2026]{.cvdate}
+
+- Team competition held at Monash College City Campus, Melbourne, 9--13 November 2026.
+- [Certificate of participation](images/certs/pitch_2026_participation.pdf)
+
+**Best Paper Award -- Late Stage** <br> *19th Doctoral Colloquium, School of Business, Monash University Malaysia* [October 2026]{.cvdate}
+
+- Paper: Modelling environmentally persistent hospital pathogens from routine surveillance: an application to MDR *Acinetobacter baumannii* in an ICU.
+- [Certificate](images/certs/colloquium_2026_best-paper.pdf)
+
 **First Place** <br> *Pathogen Panic AMR Case Competition by Monash Centre to Impact AMR* [2026]{.cvdate}
 
 - Designed an evidence-based outbreak response strategy for a novel pathogen
 - Presented via video pitch.
 - Awarded against international field.
+- [Certificate](images/certs/pathogen-panic_2026_champion.png)
 
 **National Champion** <br> *ASEAN Data Science Explorer* [2019]{.cvdate}
 
