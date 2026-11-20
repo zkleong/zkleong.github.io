@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Leong Zhuan Kee, Vis</title>
-<link>https://zkleong.github.io/blog/</link>
-<atom:link href="https://zkleong.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://zkleong.com/blog/</link>
+<atom:link href="https://zkleong.com/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website of Leong Zhuan Kee (Vis), PhD candidate in Econometrics and Business Statistics at Monash University, modeling how drug-resistant infections spread through intensive care units.</description>
 <generator>quarto-1.9.37</generator>
 <lastBuildDate>Wed, 28 May 2025 16:00:00 GMT</lastBuildDate>
 <item>
   <title>I Finally Have a Website (Built with Quarto!)</title>
   <dc:creator>Zhuan Kee, Vis</dc:creator>
-  <link>https://zkleong.github.io/blog/website/</link>
+  <link>https://zkleong.com/blog/website/</link>
   <description><![CDATA[ 
 
 
@@ -33,7 +33,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://zkleong.github.io/blog/website/website-homepage.png" class="img-fluid figure-img"></p>
+<p><img src="https://zkleong.com/blog/website/website-homepage.png" class="img-fluid figure-img"></p>
 <figcaption>Homepage</figcaption>
 </figure>
 </div>
@@ -41,7 +41,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://zkleong.github.io/blog/website/website-cv.png" class="img-fluid figure-img"></p>
+<p><img src="https://zkleong.com/blog/website/website-cv.png" class="img-fluid figure-img"></p>
 <figcaption>CV-html</figcaption>
 </figure>
 </div>
@@ -51,7 +51,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://zkleong.github.io/blog/website/website-cv-pdf.png" class="img-fluid figure-img"></p>
+<p><img src="https://zkleong.com/blog/website/website-cv-pdf.png" class="img-fluid figure-img"></p>
 <figcaption>CV-pdf</figcaption>
 </figure>
 </div>
@@ -76,9 +76,9 @@
   <category>Website</category>
   <category>Quarto</category>
   <category>Appreciation</category>
-  <guid>https://zkleong.github.io/blog/website/</guid>
+  <guid>https://zkleong.com/blog/website/</guid>
   <pubDate>Wed, 28 May 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://zkleong.github.io/blog/website/website-homepage.png" medium="image" type="image/png" height="69" width="144"/>
+  <media:content url="https://zkleong.com/blog/website/website-homepage.png" medium="image" type="image/png" height="69" width="144"/>
 </item>
 </channel>
 </rss>
