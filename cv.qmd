@@ -14,7 +14,11 @@ format:
   docx:
     author: Leong Zhuan Kee, Vis
 css: cv.css
-format-links: [typst, docx]
+format-links:
+  - format: typst
+    text: PDF
+    icon: file-pdf
+  - docx
 ---
 
 ::: {.print-only .contact-block}
